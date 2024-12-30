@@ -58,12 +58,12 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝙴𝙽𝚉𝙾 V2 𝑆𝑒𝑠𝑠𝑖𝑜𝑛
+┃DADMARK MD session 
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙴𝙽𝚉𝙾_𝚃𝙴𝙲𝙷
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = DADMARK 𝚃𝙴𝙲𝙷
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || YouTube Channel = https://www.youtube.com/@AronKiprotich-n9l
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
